@@ -5,7 +5,7 @@ Simple machine-learning-based program for predicting stock prices using LSTM.
 This is my first contact with AI-based programming. The code is based on Computer Science's [YouTube video tutorial](https://www.youtube.com/watch?v=QIUxPv5PJOY&t=263s).
 
 
-## Installation
+## Requirements
 
 Install the required dependecies with:
 
